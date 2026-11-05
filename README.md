@@ -46,7 +46,8 @@ Fishing Helper делает всю рутину рыбалки за вас: ус
 
 ### Где купить
 
-Fishing Helper продаётся на площадке FunPay (поиск: «Fishing Helper» / «бот рыбалки»).
+Fishing Helper продаётся на площадке FunPay:
+**[funpay.com/lots/offer?id=81401220](https://funpay.com/lots/offer?id=81401220)**
 Ссылка на скачивание выдаётся после оплаты вместе с личным ключом.
 
 ---
@@ -89,7 +90,8 @@ Moving it to another PC is allowed once every 30 days.
 
 ### Where to buy
 
-Fishing Helper is sold on FunPay (search for «Fishing Helper» / «бот рыбалки»).
+Fishing Helper is sold on FunPay:
+**[funpay.com/lots/offer?id=81401220](https://funpay.com/lots/offer?id=81401220)**
 The download link and your personal key are delivered right after payment.
 
 ---
